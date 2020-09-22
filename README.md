@@ -5,29 +5,39 @@ The data analysis will provide the guideline for those analyst eager to find out
 
 You will know how to calculate the relevant UA metrics and evaluate the UA campaign performance with R programming.
 
-The UA  insight trend we will provide here:
+1.The UA  insight trend we will provide here:
 
-1.The trend of new installs
+a.The trend of new installs
 
-2.The trend of D1_DAU
+b.The trend of D1_DAU
 
-3.How is the performance on Retention_rate?
+c.How is the performance on Retention_rate?
 
-4.The trend of ARPDAU_Day_1
+d.The trend of ARPDAU_Day_1
 
-5.The trend of LTV_Day_1
+e.The trend of LTV_Day_1
 
 
-How is the campaign performance look like?
+2.How is the campaign performance look like?
 
-1.ROI_180 performance evaluation
+a.ROI_180 performance evaluation
 
-2.How is the Life_time_value_model_function look like?
+b.How is the Life_time_value_model_function look like?
 
-3.ROAS performance evaluation
+Assume LTV_180 = ARPDAU_180*Life_time(1-180)
 
-4.CPM_Spend performance evaluation
+This LTV function got from GDC lecture (Retention Approach) 
 
-5.Retention_Day_7 performance evaluation
+https://mobiledevmemo.com/two-methods-modeling-ltv-spreadsheet/ (https://mobiledevmemo.com/two- methods-modeling-ltv-spreadsheet/)
 
-6.ARPDAU_D7 performance evaluation
+It assumes the retention function is a power function (y=a*x^b) and that ARPDAU is constant. 
+
+Assume retention rate will follow the power function y=ax^b, x:days since install,y:retention rate
+
+c.ROAS performance evaluation
+
+d.CPM_Spend performance evaluation
+
+e.Retention_Day_7 performance evaluation
+
+f.ARPDAU_D7 performance evaluation
