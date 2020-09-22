@@ -28,7 +28,8 @@ Assume LTV_180 = ARPDAU_180*Life_time(1-180)
 
 This LTV function got from GDC lecture (Retention Approach) 
 
-https://mobiledevmemo.com/two-methods-modeling-ltv-spreadsheet/ (https://mobiledevmemo.com/two- methods-modeling-ltv-spreadsheet/)
+https://mobiledevmemo.com/two-methods-modeling-ltv-spreadsheet/ 
+
 
 It assumes the retention function is a power function (y=a*x^b) and that ARPDAU is constant. 
 
