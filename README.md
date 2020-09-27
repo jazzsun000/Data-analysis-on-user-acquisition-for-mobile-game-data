@@ -4,7 +4,7 @@ The data analysis will provide the guideline for those analyst eager to find out
 The full insight report please follow 
 
 ### ua_analysis_result_and_all_programming_process 
-[https://github.com/jazzsun000/Data-analysis-on-user-acquisition-for-mobile-game-data/blob/master/ua_analysis_result_and_all_programming_process/ua_analysis_result_and_all_programming_process.pdf]
+https://github.com/jazzsun000/Data-analysis-on-user-acquisition-for-mobile-game-data/blob/master/ua_analysis_result_and_all_programming_process/ua_analysis_result_and_all_programming_process.pdf
 
 (UA mean user acquisition)
 
