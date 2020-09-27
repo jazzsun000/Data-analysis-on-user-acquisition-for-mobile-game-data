@@ -1,7 +1,8 @@
 # Data-analysis-on-user-acquisition-for-mobile-game-data
 The data analysis will provide the guideline for those analyst eager to find out how to optimize their UA campaign.
 
-The full insight report please follow 'ua_analysis_result_and_all_programming_process'
+The full insight report please follow 
+### ua_analysis_result_and_all_programming_process 
 
 (UA mean user acquisition)
 
